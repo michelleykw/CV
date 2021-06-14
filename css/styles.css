@@ -348,6 +348,10 @@ hr {
     width: 80%;
   }
 
+  .profile-img {
+    width: 35%;
+  }
+  
   .intern-message {
     width: 100%;
     margin: 10px auto 40px;
